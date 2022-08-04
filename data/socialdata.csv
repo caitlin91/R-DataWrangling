@@ -1,4 +1,4 @@
-"","speakers","sex","region"
-"1","Abraham","male","south"
-"2","Bilhah","female","south"
-"3","Caleb","male","north"
+"speaker","sex","region"
+"Abraham","male","south"
+"Bilhah","female","south"
+"Caleb","male","north"
